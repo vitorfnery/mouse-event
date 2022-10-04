@@ -1,12 +1,12 @@
-# Month-Calendar 📆📆📆
+# Mouse Event 🖱️🖱️🖱️
 
 ![preview](./.github/preview.gif)
 
 > # Description / Descrição
 
-A responsive month calendar
+Get the pixel values of your screen's X and Y axis measurements.
 
-[🔗 Click here to access / Clique aqui para acessar](https://month-calendar-vitorfnery.netlify.app/)
+[🔗 Click here to access / Clique aqui para acessar](https://mouse-event-vitorfnery.netlify.app/)
 
 ## 🛠️ Technologies / Tecnologias
 
